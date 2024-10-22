@@ -1,6 +1,6 @@
-Study materials are available for every subjects in this reppository. Each subjects contents is organised into its respective folder Semester wise.
-1st Semsetser: ICP | DM | CAL-A | UPM | UHV
- || 2nd Semester: DSA | IGT | CAL-B | UPEM | ITW
+Lab assignments and projects subjects ICP and DSA are available in this reppository. Each subjects contents is organised into its respective folder Semester wise.
+1st Semsetser: ICP
+ || 2nd Semester: DSA 
 
 
 
@@ -15,6 +15,6 @@ Suryamadhab Moharana
 
 ## Feedback
 
-If you have any feedback/query, please reach out to us at smsuryamadhab@gmail.com
+If you have any feedback/query, please reach out to me at smsuryamadhab@gmail.com
 
 
