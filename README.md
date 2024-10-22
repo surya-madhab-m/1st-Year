@@ -1,4 +1,4 @@
-Lab assignments and projects subjects ICP and DSA are available in this reppository. Each subjects contents is organised into its respective folder Semester wise.
+Lab assignments and projects of subjects ICP and DSA are available in this reppository. Each subjects contents is organised into its respective folder Semester wise.
 1st Semsetser: ICP
  || 2nd Semester: DSA 
 
